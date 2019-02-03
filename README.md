@@ -1,2 +1,1 @@
-# PHP-Rest-API
-PHP Rest API
+# PHP-CRUD-API example
